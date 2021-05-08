@@ -1,0 +1,5 @@
+1. palce the snake head 
+2. place the food randomly
+3. move the snake
+4. add body parts when eaten food
+5. gameover when crashed
